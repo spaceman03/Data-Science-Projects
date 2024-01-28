@@ -11,6 +11,10 @@ The random forest classifier model can classify the quality of wine into 2 categ
 
 ## :bulb: What I Learnt
 - Using the sklearn library to train a random forest classifier model
+![image](https://github.com/spaceman03/Data-Science-Projects/assets/97169613/462f51a0-6bca-42b1-950e-52629b895f20)
+- Plotting a heatmap   
+![image](https://github.com/spaceman03/Data-Science-Projects/assets/97169613/ad5d54f5-5a74-4347-87c0-229017caf865)
+
 
 ## References
 - Wine Dataset: https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download
