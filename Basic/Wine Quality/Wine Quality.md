@@ -1,7 +1,7 @@
 # Wine Quality Prediction
 ## :page_with_curl: About
 This is my repository for Wine Quality Prediction. I will use a random forest classifier model to predict the wine quality based on other indicators, such as pH, fixed acidity and etc.   
-Link to Jupyter Notebook: WineQuality.ipynb
+Link to Jupyter Notebook: [WineQuality.ipynb](https://github.com/spaceman03/Data-Science-Projects/blob/master/Basic/Wine%20Quality/Wine%20Quality.ipynb)
 
 ## :chart_with_upwards_trend: Problem Statement
 How accurate can a random forest classifier model predict the quality of a wine?
