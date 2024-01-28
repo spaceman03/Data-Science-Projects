@@ -1,12 +1,13 @@
 # Wine Quality Prediction
 ## :page_with_curl: About
-This is my repository for Wine Quality Prediction. I will use a random forest classifier model to predict the wine quality based on other indicators, such as pH, fixed acidity and etc.
+This is my repository for Wine Quality Prediction. I will use a random forest classifier model to predict the wine quality based on other indicators, such as pH, fixed acidity and etc.   
+Link to Jupyter Notebook: WineQuality.ipynb
 
 ## :chart_with_upwards_trend: Problem Statement
 How accurate can a random forest classifier model predict the quality of a wine?
 
 ## :bookmark_tabs: Conclusion
-The random forest classifier model is able to classify the quality of wine into 2 categories (good quality or not) with an accuracy of 0.8.
+The random forest classifier model can classify the quality of wine into 2 categories (good quality or not) with an accuracy of 0.8.
 
 ## :bulb: What I Learnt
 - Using the sklearn library to train a random forest classifier model
