@@ -8,6 +8,8 @@ How accurately can a random forest classifier model predict the quality of a win
 
 ## :bookmark_tabs: Conclusion
 The random forest classifier model can classify the quality of wine into 2 categories (good quality or not) with an accuracy of 0.8. We also noticed that after hyperparameter tuning, we improved our accuracy from 0.8855 to 0.8911. By choosing the optimal parameters, we can improve our prediction.
+![image](https://github.com/spaceman03/Data-Science-Projects/assets/97169613/d79e2bc1-e7cf-42be-a35f-bcc3af47f132)
+
 
 ## :bulb: What I Learnt
 - Using the sklearn library to train a random forest classifier model
