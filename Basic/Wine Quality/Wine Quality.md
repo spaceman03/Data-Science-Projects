@@ -4,10 +4,10 @@ This is my repository for Wine Quality Prediction. I used a random forest classi
 Link to Jupyter Notebook: [WineQuality.ipynb](https://github.com/spaceman03/Data-Science-Projects/blob/master/Basic/Wine%20Quality/Wine%20Quality.ipynb)
 
 ## :chart_with_upwards_trend: Problem Statement
-How accurate can a random forest classifier model predict the quality of a wine?
+How accurately can a random forest classifier model predict the quality of a wine?
 
 ## :bookmark_tabs: Conclusion
-The random forest classifier model can classify the quality of wine into 2 categories (good quality or not) with an accuracy of 0.8.
+The random forest classifier model can classify the quality of wine into 2 categories (good quality or not) with an accuracy of 0.8. We also noticed that after hyperparameter tuning, we improved our accuracy from 0.8855 to 0.8911. By choosing the optimal parameters, we can improve our prediction.
 
 ## :bulb: What I Learnt
 - Using the sklearn library to train a random forest classifier model
